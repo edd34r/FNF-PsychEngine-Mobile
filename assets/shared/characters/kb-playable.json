@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				121,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KB_Right"
+		},
+		{
+			"offsets": [
+				-94,
+				246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KB_Left"
+		},
+		{
+			"offsets": [
+				26,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KB_Down"
+		},
+		{
+			"offsets": [
+				144,
+				103
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "KB_DanceLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				109,
+				112
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "KB_DanceRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				83,
+				265
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KB_Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/qt-port/robot",
+	"position": [
+		240,
+		360
+	],
+	"healthicon": "kb",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		340,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

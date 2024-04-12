@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				249,
+				244
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KB_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KB_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KB_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				265
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KB_Up"
+		},
+		{
+			"offsets": [
+				148,
+				74
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KB_idleBabyRage"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/qt-port/robot_404-angry",
+	"position": [
+		60,
+		360
+	],
+	"healthicon": "kb",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-400,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				5,
+				12,
 				-6
 			],
 			"loop": false,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				-48,
+				-38,
 				-7
 			],
 			"loop": false,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				19
+				12,
+				24
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,7 +68,7 @@
 		},
 		{
 			"offsets": [
-				-15,
+				-11,
 				-19
 			],
 			"loop": false,
@@ -79,7 +79,7 @@
 		},
 		{
 			"offsets": [
-				-36,
+				-29,
 				27
 			],
 			"loop": false,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				-30,
+				21
 			],
 			"loop": false,
 			"fps": 24,
@@ -199,23 +199,23 @@
 			"name": "bf pre attack"
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"no_antialiasing": true,
+	"image": "characters/boyfriend-invis",
 	"position": [
-		100,
-		450
+		0,
+		350
 	],
-	"healthicon": "bf",
+	"healthicon": "icon-invis",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		15,
+		15,
+		15
 	],
 	"camera_position": [
-		90,
-		-100
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 2
+	"scale": 1
 }
